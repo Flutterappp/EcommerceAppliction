@@ -1,7 +1,6 @@
 
 
 import 'package:ecommerce/common/style/rounded_container.dart';
-import 'package:ecommerce/common/style/shadows.dart';
 import 'package:ecommerce/common/widgets/icons/t_circular_icon.dart';
 import 'package:ecommerce/common/widgets/t_rounded_images.dart';
 import 'package:ecommerce/common/widgets/text/product_title_text.dart';

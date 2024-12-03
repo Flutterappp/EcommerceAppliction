@@ -1,7 +1,3 @@
-import 'package:ecommerce/common/widgets/appbar/appbar.dart';
-import 'package:ecommerce/common/widgets/custom_shape/curved_edges/curved_edges_widget.dart';
-import 'package:ecommerce/common/widgets/icons/t_circular_icon.dart';
-import 'package:ecommerce/common/widgets/t_rounded_images.dart';
 import 'package:ecommerce/common/widgets/text/section_heading.dart';
 import 'package:ecommerce/features/authentication/screens.onbording/product_details/widgets/bottom_add_to_cart_widget.dart';
 import 'package:ecommerce/features/authentication/screens.onbording/product_details/widgets/product_attributes.dart';
@@ -9,10 +5,7 @@ import 'package:ecommerce/features/authentication/screens.onbording/product_deta
 import 'package:ecommerce/features/authentication/screens.onbording/product_details/widgets/product_meta_data.dart';
 import 'package:ecommerce/features/authentication/screens.onbording/product_details/widgets/product_reviews.dart';
 import 'package:ecommerce/features/authentication/screens.onbording/product_details/widgets/rating_share_widgit.dart';
-import 'package:ecommerce/utils/constants/colors.dart';
-import 'package:ecommerce/utils/constants/image_string.dart';
 import 'package:ecommerce/utils/constants/sizes.dart';
-import 'package:ecommerce/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';

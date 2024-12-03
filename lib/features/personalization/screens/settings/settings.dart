@@ -37,6 +37,7 @@ class SettingScreen extends StatelessWidget {
                 //User Profile Card
                    TUserProfileTile(onPressed: () {  
                     Get.to(() => const ProfileScreen());
+                    return null;
                    },),
                 const SizedBox(
                   height: TSizes.spaceBtwSections,

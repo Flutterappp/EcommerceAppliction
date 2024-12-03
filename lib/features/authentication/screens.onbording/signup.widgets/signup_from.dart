@@ -106,6 +106,7 @@ class Singnupfrom extends StatelessWidget {
           // Terms & Conditions CHECKBOX
           Row(
             children: [
+              // ignore: avoid_types_as_parameter_names, non_constant_identifier_names
               Flexible(child: SizedBox(width: 20,height: 20,child: Checkbox(value: true, onChanged: (Value){}),)),
               const SizedBox(width: TSizes.spaceBtwItems,),
               Text.rich(TextSpan(children: [

@@ -91,7 +91,7 @@ flutter:
   assets:
    - assets/logos/
    - assets/icons/
-   - assets/images/splascScreenImage/
+   - assets/images/splascScreenimage/
    - assets/images/onbordingimage/
    - assets/images/verifyrEmailAddress/
    - assets/images/onbordingimage/Product/
